@@ -1,0 +1,4 @@
+DEPORTES 
+
+#EXTINF:0 group-title="Conect Deportes" tvg-name="ESPN PERU" tvg-logo="https://logo.iptveditor.com/espn.png" cuid="5391",ESPN PERU
+http://novabox.club/live/conectStreax/K2tbMNebMW/324107.m3u8
